@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-DEVICE_PATH := device/generic/boot
+DEVICE_PATH := device/xiaomi/moon
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
